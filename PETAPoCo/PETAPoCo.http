@@ -1,0 +1,6 @@
+@PETAPoCo_HostAddress = http://localhost:5119
+
+GET {{PETAPoCo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
