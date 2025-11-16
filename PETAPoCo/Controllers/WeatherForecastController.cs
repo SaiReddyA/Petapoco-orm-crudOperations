@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using PETAPoCo.ApplicationSR;
 
-namespace PETAPoCo.Controllers
+namespace PETAPoCo.ApplicationSR.Controllers
 {
     [ApiController]
     [Route("[controller]")]

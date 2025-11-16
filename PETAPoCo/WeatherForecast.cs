@@ -1,4 +1,4 @@
-namespace PETAPoCo
+namespace PETAPoCo.ApplicationSR
 {
     public class WeatherForecast
     {
